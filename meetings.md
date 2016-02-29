@@ -14,11 +14,11 @@
 * 2/23 Srini
 
 ## March
-3/01 No Meeting
-3/08 Guest Speaker, Kyo Iigaya -- location change to Axon/Dendrite
-3/15 Sandro
-3/22 Jeremy
-3/29 Guest Speaker, Jane Wang
+* 3/01 No Meeting
+* 3/08 Guest Speaker, Kyo Iigaya -- location change to Axon/Dendrite
+* 3/15 Sandro
+* 3/22 Jeremy
+* 3/29 Guest Speaker, Jane Wang
 
 ## Continuing
 * Andrew
